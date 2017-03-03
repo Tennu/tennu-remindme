@@ -1,0 +1,22 @@
+{
+  "name": "tennu-remindme",
+  "version": "1.0.0",
+  "description": "!remindme functionality for Tennu IRC bots",
+  "main": "plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tennu/tennu-remindme.git"
+  },
+  "keywords": [
+    "tennu-plugin"
+  ],
+  "author": "Ryan (Havvy)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tennu/tennu-remindme/issues"
+  },
+  "homepage": "https://github.com/Tennu/tennu-remindme#readme"
+}
